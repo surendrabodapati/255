@@ -32,6 +32,7 @@ Github link: https://github.com/surendrabodapati/255/edit/main/README.md
 
 Reference :  referenced OpenVINO official website
 ![image](https://user-images.githubusercontent.com/52579540/203496420-ea126dd6-7a2e-4f08-9cf5-fad074b70c3b.png)
-<img width="975" alt="Screen Shot 2022-11-25 at 2 11 21 PM" src="https://user-images.githubusercontent.com/52579540/204059402-93048e82-a19c-414f-bbb3-5504386b6949.png">
+<img width="977" alt="Screen Shot 2022-11-25 at 2 12 14 PM" src="https://user-images.githubusercontent.com/52579540/204059451-f65df0e1-d1a1-4cfc-9838-40632c0319d2.png">
+
 
 
